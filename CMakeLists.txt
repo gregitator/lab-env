@@ -2,7 +2,7 @@
 # gscept laboration environment
 #--------------------------------------------------------------------------
 cmake_policy(SET CMP0048 NEW) # set policy for older versions
-PROJECT(gscept_lab_env VERSION 1.0)
+PROJECT(myProject VERSION 1.0)
 CMAKE_MINIMUM_REQUIRED(VERSION 3.2)
 
 OPTION(CI_MODE "Run in CI mode" OFF) # Disabled by default
