@@ -17,7 +17,7 @@ main(int argc, const char** argv)
 		app.Run();
 		app.Close();
 	}
-	app.Exit();	
+	app.Exit();	//test
 
 	return app.ExitCode();
 }
